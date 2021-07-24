@@ -1,0 +1,7 @@
+1. Install Vue Cli
+$ npm install -g @vue/cli
+2. Create new App
+$ vue create vue-app
+3. Build and test the App
+$ cd vue-app
+$ npm run build
